@@ -5,3 +5,6 @@ import matplotlib.pyplot as plt
 from scipy.stats import norm
 
 historical_data = yf.download("QQQ", start="2010-01-01", end="2023-01-01")
+
+# Comb thru this
+# https://github.com/wilsonfreitas/awesome-quant?tab=readme-ov-file
